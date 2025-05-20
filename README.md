@@ -1,5 +1,5 @@
 # VisionCalc
-VisionCalc is a web application that enables users to draw mathematical expressions containing numbers (0-9), operators (+, -, *, /), and square brackets ([, ]). Using a CNN-based machine learning model, the system recognizes handwritten characters, converts them into a valid mathematical expression, and evaluates the result in real time.
+VisionCalc is a web app that lets users draw digits and math operators, recognizes them using a scikit-learn model trained on load_digits() and custom images, and evaluates the expression. Built with React.js (frontend) and Flask (backend) for real-time digit recognition.
 
 # Team Members:
 Sanjayazhagan<br>
